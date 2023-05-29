@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+import 'feed.dart';
+import 'notificacoes.dart';
+import 'mensagens.dart';
+
+void main() {
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      routes: {
+        '/': (context) => feed(),
+        '/config': (context) => notificacoes(),
+        '/': (context) => mensagens(),
+      },
+    );
+  }
+}
