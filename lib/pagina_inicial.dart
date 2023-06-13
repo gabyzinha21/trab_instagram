@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, prefer_const_literals_to_create_immutables, unused_import
 import 'package:flutter/material.dart';
-import 'package:trab_instagram/configuracoes (1).dart';
+import 'package:trab_instagramga/configuracoes (1).dart';
 
 class PaginaInicial extends StatelessWidget {
   const PaginaInicial({super.key});
@@ -35,24 +35,24 @@ class PaginaInicial extends StatelessWidget {
               title: Row(
                 children: [
                   CircleAvatar(
-                    radius: 30,
+                    radius: 50,
                     backgroundImage: NetworkImage(
-                        'https://images.unsplash.com/photo-1670012896865-f531c5fb65d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80'),
+                        'https://images.unsplash.com/photo-1560790671-b76ca4de55ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=734&q=80'),
                   ),
                   CircleAvatar(
-                    radius: 30,
+                    radius: 50,
                     backgroundImage: NetworkImage(
-                        'https://images.unsplash.com/photo-1686495728202-d80f2a4f1496?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80'),
+                        'https://plus.unsplash.com/premium_photo-1675286438127-fb14d8c622d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'),
                   ),
                   CircleAvatar(
-                    radius: 30,
+                    radius: 50,
                     backgroundImage: NetworkImage(
-                        'https://images.unsplash.com/photo-1670012896865-f531c5fb65d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80'),
+                        'https://images.unsplash.com/photo-1560790671-b76ca4de55ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=734&q=80'),
                   ),
                   CircleAvatar(
-                    radius: 30,
+                    radius: 50,
                     backgroundImage: NetworkImage(
-                        'https://images.unsplash.com/photo-1686495728202-d80f2a4f1496?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80'),
+                        'https://plus.unsplash.com/premium_photo-1675286438127-fb14d8c622d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80'),
                   ),
                 ],
               ),
@@ -110,57 +110,6 @@ class PaginaInicial extends StatelessWidget {
               onTap: () {},
             ),
             Divider(),
-            ListTile(
-              title: Text("Fabiana_Familia"),
-              subtitle: Row(
-                children: [
-                  Text("Em casa"),
-                ],
-              ),
-              leading: CircleAvatar(
-                backgroundImage: NetworkImage(
-                    'https://media.istockphoto.com/id/1383518908/pt/foto/toddler-learning-how-to-walk-at-home-with-the-help-of-his-mother.jpg?s=2048x2048&w=is&k=20&c=BX9_z_ojLgjw0NTqBaiMRctfofPdHsqndldfgBMkqiI='),
-              ),
-              trailing: Column(
-                children: [
-                  Icon(Icons.more_vert),
-                ],
-              ),
-            ),
-            Divider(),
-            ListTile(
-              trailing: Column(
-                children: [
-                  Icon(Icons.more_vert),
-                ],
-              ),
-              title: Column(
-                children: [
-                  Image.network(
-                    'https://images.unsplash.com/photo-1669921884685-964d648b1345?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80',
-                    width: 500,
-                    height: 500,
-                  ),
-                ],
-              ),
-              subtitle: Text("💕 <3... XXXX likes"),
-            ),
-            ListTile(
-              subtitle: Text("Views xx comentar"),
-            ),
-            ListTile(
-              title: Row(
-                children: [
-                  Icon(Icons.favorite),
-                  Icon(Icons.comment),
-                  Icon(Icons.send),
-                ],
-              ),
-              trailing: Icon(
-                Icons.bookmark_outline,
-              ),
-              onTap: () {},
-            ),
           ],
         ),
       ),

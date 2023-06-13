@@ -31,7 +31,7 @@ class Notificacoes extends StatelessWidget {
             leading: CircleAvatar(
               radius: 26,
               backgroundImage: NetworkImage(
-                  'https://images.unsplash.com/photo-1679993813768-ca5ee0495991?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=792&q=80'),
+                  'https://images.unsplash.com/photo-1685556636541-b141d0a09746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80'),
             ),
           ),
           ListTile(
@@ -41,7 +41,7 @@ class Notificacoes extends StatelessWidget {
             title: Row(
               children: [
                 Text(
-                  ("blablablablablaa"),
+                  ("Uma tralalalalalalalaallalalalala"),
                 )
               ],
             ),
@@ -49,18 +49,18 @@ class Notificacoes extends StatelessWidget {
             leading: CircleAvatar(
               radius: 26,
               backgroundImage: NetworkImage(
-                  'https://images.unsplash.com/photo-1686166113835-5ae3a533828c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80'),
+                  'https://images.unsplash.com/photo-1685556636541-b141d0a09746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80'),
             ),
           ),
           ListTile(
             title: Text(
-              ("babababaababbababab"),
+              ("Uma tralalalalalalalaallalalalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"),
             ),
             subtitle: Text("2d"),
             leading: CircleAvatar(
               radius: 26,
               backgroundImage: NetworkImage(
-                  'https://images.unsplash.com/photo-1686166113835-5ae3a533828c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80'),
+                  'https://images.unsplash.com/photo-1685556636541-b141d0a09746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80'),
             ),
           ),
           ListTile(
@@ -68,13 +68,13 @@ class Notificacoes extends StatelessWidget {
           ),
           ListTile(
             title: Text(
-              ("Fabiana"),
+              ("Uma sdjnisfnsjf sifnmsifd sid ifnsifjs fis fdin"),
             ),
             subtitle: Text("2d"),
             leading: CircleAvatar(
               radius: 26,
               backgroundImage: NetworkImage(
-                  'https://images.unsplash.com/photo-1681400899507-8601dde0e0a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=838&q=80'),
+                  'https://images.unsplash.com/photo-1685556636541-b141d0a09746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80'),
             ),
             trailing: ElevatedButton(
               onPressed: () {},
@@ -83,91 +83,91 @@ class Notificacoes extends StatelessWidget {
           ),
           ListTile(
             title: Text(
-              ("Fatima"),
+              ("Uma sdjnisfnsjf sifnmsifd sid ifnsifjs fis fdin"),
             ),
-            subtitle: Text("1d"),
+            subtitle: Text("2d"),
             leading: CircleAvatar(
               radius: 26,
               backgroundImage: NetworkImage(
-                  'https://images.unsplash.com/photo-1670012896865-f531c5fb65d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80'),
+                  'https://images.unsplash.com/photo-1685556636541-b141d0a09746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80'),
             ),
             trailing: ElevatedButton(
               onPressed: () {},
-              child: Text("começou a te seguir"),
+              child: Text("Seguir"),
             ),
           ),
           ListTile(
               title: Text(
-                ("sou eu"),
-              ),
-              subtitle: Text("2seg"),
-              leading: CircleAvatar(
-                radius: 26,
-                backgroundImage: NetworkImage(
-                    'https://images.unsplash.com/photo-1670012896865-f531c5fb65d9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80'),
-              ),
-              trailing: Image.network(
-                'https://images.unsplash.com/photo-1602013871952-8379f19a15f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80',
-                width: 60,
-                height: 60,
-              )),
-          ListTile(
-              title: Text(
-                ("ella"),
+                ("Uma sdjnisfnsjf sifnmsifd sid ifnsifjs fis fdin"),
               ),
               subtitle: Text("2d"),
               leading: CircleAvatar(
                 radius: 26,
                 backgroundImage: NetworkImage(
-                    'https://images.unsplash.com/photo-1674163861103-b299be265a4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=716&q=80'),
+                    'https://images.unsplash.com/photo-1685556636541-b141d0a09746?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80'),
               ),
               trailing: Image.network(
-                'https://images.unsplash.com/photo-1602013871952-8379f19a15f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80',
+                'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
                 width: 60,
                 height: 60,
               )),
           ListTile(
               title: Text(
-                ("aila"),
+                ("Uma sdjnisfnsjf sifnmsifd sid ifnsifjs fis fdin"),
               ),
-              subtitle: Text("4d"),
+              subtitle: Text("2d"),
               leading: CircleAvatar(
                 radius: 26,
                 backgroundImage: NetworkImage(
-                    'https://images.unsplash.com/photo-1674163861103-b299be265a4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=716&q=80'),
+                    'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'),
               ),
               trailing: Image.network(
-                'https://images.unsplash.com/photo-1643552841358-949ad26a852d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80',
+                'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
                 width: 60,
                 height: 60,
               )),
           ListTile(
               title: Text(
-                ("fini"),
+                ("Uma sdjnisfnsjf sifnmsifd sid ifnsifjs fis fdin"),
               ),
-              subtitle: Text("5d"),
+              subtitle: Text("2d"),
               leading: CircleAvatar(
                 radius: 26,
                 backgroundImage: NetworkImage(
-                    'https://images.unsplash.com/photo-1675709146139-c57b68bc44f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80'),
+                    'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'),
               ),
               trailing: Image.network(
-                'https://images.unsplash.com/photo-1602013871952-8379f19a15f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=735&q=80',
+                'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
                 width: 60,
                 height: 60,
               )),
           ListTile(
               title: Text(
-                ("emma"),
+                ("Uma sdjnisfnsjf sifnmsifd sid ifnsifjs fis fdin"),
               ),
-              subtitle: Text("7d"),
+              subtitle: Text("2d"),
               leading: CircleAvatar(
                 radius: 26,
                 backgroundImage: NetworkImage(
-                    'https://images.unsplash.com/photo-1675709146139-c57b68bc44f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=686&q=80'),
+                    'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'),
               ),
               trailing: Image.network(
-                'https://images.unsplash.com/photo-1643552841358-949ad26a852d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=688&q=80',
+                'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
+                width: 60,
+                height: 60,
+              )),
+          ListTile(
+              title: Text(
+                ("Uma sdjnisfnsjf sifnmsifd sid ifnsifjs fis fdin"),
+              ),
+              subtitle: Text("2d"),
+              leading: CircleAvatar(
+                radius: 26,
+                backgroundImage: NetworkImage(
+                    'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80'),
+              ),
+              trailing: Image.network(
+                'https://images.unsplash.com/photo-1682232410297-e04c5e616b31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80',
                 width: 60,
                 height: 60,
               )),
